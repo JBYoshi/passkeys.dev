@@ -1,15 +1,10 @@
 ---
-title: "Requirements"
-description: ""
-lead: ""
-date: 2022-09-24T16:02:27.390Z
-draft: true
+title : "Basic Requirements"
+description: "Basic requirements for authentication with passkeys"
+lead: "Basic requirements for authentication with passkeys"
+draft: false
 images: []
-menu:
-  docs:
-    parent: "implement"
-weight: 501
-toc: true
+weight: 310
 ---
 
 ## Back End
